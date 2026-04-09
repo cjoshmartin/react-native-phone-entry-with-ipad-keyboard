@@ -1,5 +1,5 @@
 {
-  "name": "react-native-phone-entry",
+  "name": "react-native-phone-entry-with-ipad-keyboard",
   "version": "0.2.4",
   "description": "Simple and fully modifiable Phone Number Input Component for React Native",
   "source": "./src/index.ts",
