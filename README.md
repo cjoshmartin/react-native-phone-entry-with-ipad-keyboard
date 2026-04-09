@@ -1,7 +1,6 @@
-# react-native-phone-entry
+# react-native-phone-entry - (Fork)
 
-[![npm version](https://badge.fury.io/js/react-native-phone-entry.svg?&kill_cache=1)](https://badge.fury.io/js/react-native-phone-entry)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?&kill_cache=1)](https://github.com/your-username/react-native-phone-entry/blob/main/LICENSE)
+Just needed added support for phone number keyboard on iPad and some UI tweaks. So forking this project to use in client work.
 
 <!-- [![cov](https://anday013.github.io/react-native-phone-entry/badges/coverage.svg?&kill_cache=1)](https://github.com/anday013/react-native-phone-entry/actions) -->
 <!-- [![npm](https://img.shields.io/npm/dm/react-native-phone-entry.svg?&kill_cache=1)]() -->
@@ -30,6 +29,7 @@
 - 🎨 Dark theme support
 - ♿ Accessibility support
 - 💪 Written in TypeScript
+- iPad Phone number layout
 
 ## Installation
 
