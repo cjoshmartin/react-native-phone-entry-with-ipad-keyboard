@@ -49,12 +49,12 @@
     "type": "git",
     "url": "git+https://github.com/anday013/react-native-phone-entry.git"
   },
-  "author": "anday013 <anday.ismayilzada@gmail.com> (https://github.com/anday013)",
+  "author": "cjoshmartin <contact@cjoshmartin.com> (https://github.com/cjoshmartin)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anday013/react-native-phone-entry/issues"
+    "url": "https://github.com/cjoshmartin/react-native-phone-entry-with-ipad-keyboard/issues"
   },
-  "homepage": "https://github.com/anday013/react-native-phone-entry#readme",
+  "homepage": "https://github.com/cjoshmartin/react-native-phone-entry-with-ipad-keyboard#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
